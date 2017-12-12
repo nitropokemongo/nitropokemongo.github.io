@@ -1,0 +1,16 @@
+body{
+  Background-color: red;
+}
+
+img{
+  width:1000px;
+}
+  
+  li{
+    color:orange;
+  }
+  
+  li:hover{
+    color:blue;
+    font-size: 500%;
+  }
